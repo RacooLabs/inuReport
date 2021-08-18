@@ -1,0 +1,14 @@
+.footer-centered{
+    width:90%;
+    min-width: 1200px;
+    max-width: 1980px;
+    height:90px;
+    margin: 0 auto;
+    font-size : 12px;
+    color:#999999;
+    text-align: center;
+}
+
+.hr-margin-footer{
+    margin-bottom: 10px;
+}

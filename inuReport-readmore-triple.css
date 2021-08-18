@@ -1,0 +1,116 @@
+.content-img-wrapper-readmore-triple{
+
+    display: block;
+    height:500px;
+    width : 100%;
+
+}
+
+.content-block-readmore-triple{
+    height:auto;
+    width:100%;
+    margin-bottom: 170px;
+}
+
+
+.main-banner-img-readmore-triple{
+
+    display: inline-block;
+    width: auto;
+    height: auto;    
+    position: relative;
+    top:50%;
+    left : 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+
+.description-box-readmore-triple{
+
+    display: inline-block;
+    height:auto;
+    width:500px;
+    margin:0;
+
+}
+
+.content-wrapper-readmore-triple{
+    display:block;
+    height:auto;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.group-image-triple{
+    display: inline-block;
+    border: 2px solid #777777;
+    margin-right:10px;
+}
+
+.group-image-triple-last{
+    display: inline-block;
+    border: 2px solid #777777;
+}
+
+.content-description-readmore-triple{
+    width:100%;
+    height: 56px;
+    font-size: 14px;
+}
+
+.content-guide-readmore-triple{
+
+    width:100%;
+    height: 110px;
+    font-size: 14px;
+    margin: 0 auto;
+
+}
+
+.content-guide-readmore-triple ul{
+
+    width:100%;
+    height: 50px;
+    font-size: 14px;
+    padding-left:20px;
+    margin:0;
+
+}
+
+.description-box-wrapper-readmore-triple{
+    width:100%;
+    height:auto;
+}
+
+.description-centered-readmore-triple{
+    display: block;
+    width: 726px;
+    margin: 0 auto;
+}
+
+.download-button-triple{
+
+    display:inline-block;
+    width : 150px;
+    height:50px;
+    background: #262626;
+    border-radius: 100px;
+    color: white;
+    font-weight: bold;
+    font-size:14px;
+    border:0;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    position: relative;
+    top: -60px;
+    left: 76px;
+        
+}
+
+.download-button-triple:hover{
+
+    background: #000;
+    
+}
